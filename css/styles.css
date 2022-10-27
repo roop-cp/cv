@@ -1,0 +1,10 @@
+body{
+  background-color:#82A284;
+}
+img{
+  border-radius: 100%;
+  height: 200px;
+}
+a:hover{
+  color: #F9CEEE;
+}
